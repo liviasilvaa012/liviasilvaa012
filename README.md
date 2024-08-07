@@ -1,16 +1,16 @@
-## Hi there 👋
+## BEM VINDAS(OS) AO MEU PERFIL!! ❤️‍🔥
+Este repositório é _especial_ pois fui eu que criei!
 
-<!--
-**liviasilvaa012/liviasilvaa012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou aluna e estou visitando a Alura;
+- Tenho quinze anos;
+- Residente de Buritizal/SP;
+- Curso o primeiro ano do ensino médio;
+- Na escola Francisco Ribeiro.
+- Namorando 👩‍❤️‍👨
 
-Here are some ideas to get you started:
+### Meios de contato 📫:
+_Instagram_: @liviaasilva
+ 
+_E-mail_: liviacristina7007@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/1PAD8rSRFGMAAAAM/bored-bore.gif)
