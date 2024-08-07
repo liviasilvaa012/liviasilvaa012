@@ -1,7 +1,7 @@
 ## BEM VINDAS(OS) AO MEU PERFIL!! ❤️‍🔥
 Este repositório é _especial_ pois fui eu que criei!
 
-- Sou aluna e estou visitando a Alura;
+- Sou aluna e estou visitando a [Alura](https://www.alura.com.br);
 - Tenho quinze anos;
 - Residente de Buritizal/SP;
 - Curso o primeiro ano do ensino médio;
